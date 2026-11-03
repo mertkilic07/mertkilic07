@@ -10,6 +10,7 @@ I focus on **data analytics**: building datasets, testing hypotheses and turning
 ### 🔍 Featured Project
 
 **[Behavioral Drivers of Bitcoin Price Movements](https://github.com/mertkilic07/Crypto-Price-Prediction)**
+
 Tested whether tweet sentiment, Google Trends and the Crypto Fear & Greed Index predict Bitcoin's next-day price direction.
 Combined 2 years of data from 4 sources, engineered 94 features and evaluated the signals with hypothesis tests and machine-learning models.
 
